@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <blockquote>“We are drowning in information but starved for knowledge.”</blockquote>
+        <cite>— John Naisbitt</cite>
 
 profile:
   align: right
