@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: “We are drowning in information but starved for knowledge.” — John Naisbitt
+subtitle: 
 
 profile:
   align: right
@@ -26,6 +26,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<p style="font-size: 13px; color: #777777; font-style: italic; margin-top: -10px; margin-bottom: 20px;">
+    “We are drowning in information but starved for knowledge.” — John Naisbitt
+</p>
+
 
 I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by [Dr. Jiangping Chen](https://ischool.illinois.edu/people/jiangping-chen) in the School of Information. I am also a Research Assistant in the [Information Integrity and Assessment Lab](https://iial.ischool.illinois.edu/) where I am currently working on projects related to misinformation and supporting older adults' information and digital literacy through public library services.
 
