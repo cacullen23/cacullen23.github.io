@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="font-size: 12px; color: #333333; margin: 0;">
-    “We are drowning in information but starved for knowledge.” — John Naisbitt
-</p>
+subtitle: “We are drowning in information but starved for knowledge.” — John Naisbitt
 
 profile:
   align: right
