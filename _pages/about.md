@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: carolyn-cullen.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 318</p>
     <p>501 E. Daniel Street</p>
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by [Dr. Jiangping Chen](https://ischool.illinois.edu/people/jiangping-chen) in the School of Information. I am a Research Assistant in the [Information Integrity and Assessment Lab](https://iial.ischool.illinois.edu/) where I am currently working on projects surrounding misinformation and to support older adults information and digital literacy through public library services.
+I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by [Dr. Jiangping Chen](https://ischool.illinois.edu/people/jiangping-chen) in the School of Information. I am also a Research Assistant in the [Information Integrity and Assessment Lab](https://iial.ischool.illinois.edu/) where I am currently working on projects related to misinformation and supporting older adults' information and digital literacy through public library services.
 
-My research interests are generally:
+My research centers on information literacy and behavior. I’m interested in how misinformation spreads in online spaces, how people determine which information sources are credible, and how academic research findings are communicated and understood. I'm also interested in the systems surrounding how research is produced and shared, including open access publishing models and the ways new technologies influence research and academic writing.
 
-At the University of Michigan, I worked as a Faculty Bibliography Research Assistant at the University of Michigan Law Library, as well as a Library Research Engagement Fellow.
+Prior to starting my Ph.D., I earned my M.S. and B.S. in Information Science from the University of Michigan. While at Michigan, I worked as a Faculty Bibliography Research Assistant at the University of Michigan Law Library and as a Library Research Engagement Fellow with the University Library.
