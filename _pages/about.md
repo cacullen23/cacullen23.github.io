@@ -28,3 +28,7 @@ latest_posts:
 ---
 
 I am a first-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by [Dr. Jiangping Chen](https://ischool.illinois.edu/people/jiangping-chen) in the School of Information. I am a Research Assistant in the [Information Integrity and Assessment Lab](https://iial.ischool.illinois.edu/) where I am currently working on projects surrounding misinformation and to support older adults information and digital literacy through public library services.
+
+My research interests are generally:
+
+At the University of Michigan, I worked as a Faculty Bibliography Research Assistant at the University of Michigan Law Library, as well as a Library Research Engagement Fellow.
